@@ -1,0 +1,120 @@
+{
+  "atendimentos": [
+    {
+      "data": "2026-11-19 06:40:21",
+      "origem": "pergunta",
+      "pergunta": "como faço o cartao do sus",
+      "id_orientacao": 1,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:21",
+      "origem": "pergunta",
+      "pergunta": "onde tomo a vacina da gripe?",
+      "id_orientacao": 3,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:22",
+      "origem": "pergunta",
+      "pergunta": "minha mae tem direito a remedio de graça?",
+      "id_orientacao": 2,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:22",
+      "origem": "pergunta",
+      "pergunta": "sou aposentado preciso ir ao banco?",
+      "id_orientacao": null,
+      "encontrou": false,
+      "ajudou": false,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:22",
+      "origem": "categoria",
+      "pergunta": "[Assistência Social] Pedir o Benefício de Prestação Continuada (BPC) para idoso",
+      "id_orientacao": 7,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:22",
+      "origem": "pergunta",
+      "pergunta": "idoso anda de onibus de graça?",
+      "id_orientacao": 4,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:22",
+      "origem": "pergunta",
+      "pergunta": "quero desconto na conta de luz",
+      "id_orientacao": 9,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:22",
+      "origem": "pergunta",
+      "pergunta": "como pedir o bpc pro meu avo",
+      "id_orientacao": 7,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:22",
+      "origem": "pergunta",
+      "pergunta": "vaga de estacionamento pra idoso",
+      "id_orientacao": 6,
+      "encontrou": true,
+      "ajudou": false,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:22",
+      "origem": "pergunta",
+      "pergunta": "recebi ligação pedindo senha do banco",
+      "id_orientacao": null,
+      "encontrou": false,
+      "ajudou": false,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:40:22",
+      "origem": "categoria",
+      "pergunta": "[Direitos e Previdência] Direito a atendimento prioritário em filas",
+      "id_orientacao": 12,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    }
+  ],
+  "avaliacoes_facilidade": [
+    4,
+    5,
+    3,
+    5
+  ]
+}

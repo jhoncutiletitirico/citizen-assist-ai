@@ -1,0 +1,12 @@
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-19 06:40:21,pergunta,como faço o cartao do sus,1,True,True,1,0.0
+2026-11-19 06:40:21,pergunta,onde tomo a vacina da gripe?,3,True,True,1,0.0
+2026-11-19 06:40:22,pergunta,minha mae tem direito a remedio de graça?,2,True,True,1,0.0
+2026-11-19 06:40:22,pergunta,sou aposentado preciso ir ao banco?,,False,False,1,0.0
+2026-11-19 06:40:22,categoria,[Assistência Social] Pedir o Benefício de Prestação Continuada (BPC) para idoso,7,True,True,1,0.0
+2026-11-19 06:40:22,pergunta,idoso anda de onibus de graça?,4,True,True,1,0.0
+2026-11-19 06:40:22,pergunta,quero desconto na conta de luz,9,True,True,1,0.0
+2026-11-19 06:40:22,pergunta,como pedir o bpc pro meu avo,7,True,True,1,0.0
+2026-11-19 06:40:22,pergunta,vaga de estacionamento pra idoso,6,True,False,1,0.0
+2026-11-19 06:40:22,pergunta,recebi ligação pedindo senha do banco,,False,False,1,0.0
+2026-11-19 06:40:22,categoria,[Direitos e Previdência] Direito a atendimento prioritário em filas,12,True,True,1,0.0
